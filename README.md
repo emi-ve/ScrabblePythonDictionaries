@@ -1,0 +1,2 @@
+# ScrabblePythonDictionaries
+Practicing Python Dictionaries
